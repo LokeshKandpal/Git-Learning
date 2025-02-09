@@ -5,5 +5,6 @@ const login = "Login Page Added"
 console.log(login);
 
 
-const footer = "footer added in website"
-console.log(footer);
+const payment = "integreted payment gateways"
+console.log(payment);
+
